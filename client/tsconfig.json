@@ -26,8 +26,5 @@
     "noEmit": true,
     "jsx": "preserve"
   },
-  "include": [
-    "src",
-    "declarations.d.ts"
-  ]
+  "include": ["src", "declarations.d.ts"],
 }
